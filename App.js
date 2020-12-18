@@ -201,7 +201,7 @@ const styles = StyleSheet.create({
     padding:10
   },
   styleList:{
-   fontSize:30,
+   fontSize:20,
    fontWeight:'bold',
    textAlign:'center', 
   }
